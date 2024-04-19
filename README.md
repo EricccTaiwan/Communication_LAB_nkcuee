@@ -1,4 +1,4 @@
-# Communication_Lab_通訊實驗_NCKU_EE
+# 111-2 | 通訊實驗_NCKUEE
 
 | Lab  | content|
 | :--  | :-- |
